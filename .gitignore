@@ -3,7 +3,6 @@ data/*.csv
 data/*.parquet
 
 # Ignore model files
-models/*.pkl
 
 # Ignore Python cache
 __pycache__/
@@ -14,3 +13,5 @@ __pycache__/
 
 # Ignore virtual environment
 venv/
+
+models/severity_model_rf.pkl
