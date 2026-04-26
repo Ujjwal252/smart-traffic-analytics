@@ -1,0 +1,6 @@
+{
+  "xgb_accuracy": 0.65074,
+  "xgb_roc_auc": 0.7422058728707569,
+  "rf_accuracy": 0.64738,
+  "best_model": "XGBoost"
+}

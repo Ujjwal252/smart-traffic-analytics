@@ -1,0 +1,402 @@
+[
+  {
+    "cluster": 3,
+    "lat": 33.866529085285435,
+    "lng": -117.91839589291338,
+    "avg_severity": 2.5070866141732284,
+    "accident_count": 20320,
+    "avg_weather_risk": 1.4291830708661417
+  },
+  {
+    "cluster": 0,
+    "lat": 37.921521936435184,
+    "lng": -121.86541523618438,
+    "avg_severity": 2.3902966358211537,
+    "accident_count": 11563,
+    "avg_weather_risk": 1.5009080688402663
+  },
+  {
+    "cluster": 1,
+    "lat": 40.937940376125056,
+    "lng": -73.88419819801042,
+    "avg_severity": 2.437391441654824,
+    "accident_count": 6333,
+    "avg_weather_risk": 1.7901468498342017
+  },
+  {
+    "cluster": 7,
+    "lat": 40.090024328850404,
+    "lng": -75.65770492262344,
+    "avg_severity": 2.147936624907885,
+    "accident_count": 5428,
+    "avg_weather_risk": 1.632092851879145
+  },
+  {
+    "cluster": 5,
+    "lat": 29.76481714540004,
+    "lng": -95.43359449859472,
+    "avg_severity": 2.205171444631816,
+    "accident_count": 5337,
+    "avg_weather_risk": 1.694959715195803
+  },
+  {
+    "cluster": 16,
+    "lat": 28.270794358063178,
+    "lng": -81.98157655985038,
+    "avg_severity": 2.2400249376558605,
+    "accident_count": 4812,
+    "avg_weather_risk": 1.5987115544472152
+  },
+  {
+    "cluster": 10,
+    "lat": 32.794021216359404,
+    "lng": -96.8606146857385,
+    "avg_severity": 2.3873702055520236,
+    "accident_count": 4719,
+    "avg_weather_risk": 1.677685950413223
+  },
+  {
+    "cluster": 6,
+    "lat": 30.30622008596812,
+    "lng": -97.7333168988764,
+    "avg_severity": 2.132741050431147,
+    "accident_count": 3827,
+    "avg_weather_risk": 1.654559707342566
+  },
+  {
+    "cluster": 9,
+    "lat": 39.057287995163584,
+    "lng": -77.03907400995733,
+    "avg_severity": 2.5644381223328594,
+    "accident_count": 3515,
+    "avg_weather_risk": 1.6958748221906117
+  },
+  {
+    "cluster": 17,
+    "lat": 42.713927655378484,
+    "lng": -83.44884939556061,
+    "avg_severity": 2.4538986909504836,
+    "accident_count": 3514,
+    "avg_weather_risk": 1.8414911781445646
+  },
+  {
+    "cluster": 4,
+    "lat": 41.9301780471833,
+    "lng": -87.99271249528168,
+    "avg_severity": 2.214183585930798,
+    "accident_count": 3497,
+    "avg_weather_risk": 1.7943951958821847
+  },
+  {
+    "cluster": 8,
+    "lat": 33.80780299728353,
+    "lng": -84.36334057691002,
+    "avg_severity": 2.7273344651952462,
+    "accident_count": 2945,
+    "avg_weather_risk": 1.7229202037351443
+  },
+  {
+    "cluster": 11,
+    "lat": 26.01947864447592,
+    "lng": -80.22920730949009,
+    "avg_severity": 2.50814447592068,
+    "accident_count": 2824,
+    "avg_weather_risk": 1.8753541076487252
+  },
+  {
+    "cluster": 12,
+    "lat": 47.56085679602511,
+    "lng": -122.30619207426778,
+    "avg_severity": 2.3964435146443517,
+    "accident_count": 1912,
+    "avg_weather_risk": 1.881276150627615
+  },
+  {
+    "cluster": 2,
+    "lat": 42.28886890200211,
+    "lng": -71.24411136090622,
+    "avg_severity": 2.4293993677555323,
+    "accident_count": 1898,
+    "avg_weather_risk": 1.8424657534246576
+  },
+  {
+    "cluster": 22,
+    "lat": 41.2379333572335,
+    "lng": -96.03253956598985,
+    "avg_severity": 2.1408629441624365,
+    "accident_count": 1576,
+    "avg_weather_risk": 1.75253807106599
+  },
+  {
+    "cluster": 19,
+    "lat": 39.74050546410256,
+    "lng": -84.1907814025641,
+    "avg_severity": 2.1564102564102563,
+    "accident_count": 1170,
+    "avg_weather_risk": 1.958974358974359
+  },
+  {
+    "cluster": 23,
+    "lat": 42.951541561023625,
+    "lng": -85.66241197145669,
+    "avg_severity": 2.094488188976378,
+    "accident_count": 1016,
+    "avg_weather_risk": 2.187992125984252
+  },
+  {
+    "cluster": 18,
+    "lat": 29.48485306904762,
+    "lng": -98.43395449166667,
+    "avg_severity": 2.354761904761905,
+    "accident_count": 840,
+    "avg_weather_risk": 1.8107142857142857
+  },
+  {
+    "cluster": 14,
+    "lat": 27.340457594164455,
+    "lng": -82.4543184403183,
+    "avg_severity": 2.2387267904509285,
+    "accident_count": 754,
+    "avg_weather_risk": 1.4177718832891246
+  },
+  {
+    "cluster": 26,
+    "lat": 39.9941798611482,
+    "lng": -82.96754985313753,
+    "avg_severity": 2.5527369826435247,
+    "accident_count": 749,
+    "avg_weather_risk": 1.8531375166889186
+  },
+  {
+    "cluster": 32,
+    "lat": 33.49246387559055,
+    "lng": -81.9427803448819,
+    "avg_severity": 2.1496062992125986,
+    "accident_count": 635,
+    "avg_weather_risk": 1.5716535433070866
+  },
+  {
+    "cluster": 13,
+    "lat": 26.529723055555557,
+    "lng": -81.81025862007168,
+    "avg_severity": 2.152329749103943,
+    "accident_count": 558,
+    "avg_weather_risk": 1.603942652329749
+  },
+  {
+    "cluster": 29,
+    "lat": 38.65384089432485,
+    "lng": -90.36891224657533,
+    "avg_severity": 2.853228962818004,
+    "accident_count": 511,
+    "avg_weather_risk": 1.9021526418786692
+  },
+  {
+    "cluster": 30,
+    "lat": 41.69077463170163,
+    "lng": -72.7297986969697,
+    "avg_severity": 2.7016317016317015,
+    "accident_count": 429,
+    "avg_weather_risk": 1.7365967365967365
+  },
+  {
+    "cluster": 45,
+    "lat": 42.70680939,
+    "lng": -73.7872565175,
+    "avg_severity": 2.7725,
+    "accident_count": 400,
+    "avg_weather_risk": 2.2625
+  },
+  {
+    "cluster": 25,
+    "lat": 40.4631781314433,
+    "lng": -79.98160857216494,
+    "avg_severity": 2.4690721649484537,
+    "accident_count": 388,
+    "avg_weather_risk": 1.884020618556701
+  },
+  {
+    "cluster": 40,
+    "lat": 41.61439254679803,
+    "lng": -93.640533182266,
+    "avg_severity": 2.605911330049261,
+    "accident_count": 203,
+    "avg_weather_risk": 1.7733990147783252
+  },
+  {
+    "cluster": 27,
+    "lat": 41.41009955865922,
+    "lng": -81.74462919553073,
+    "avg_severity": 2.7150837988826817,
+    "accident_count": 179,
+    "avg_weather_risk": 1.8659217877094971
+  },
+  {
+    "cluster": 43,
+    "lat": 47.67772849068323,
+    "lng": -117.36370898136646,
+    "avg_severity": 2.0869565217391304,
+    "accident_count": 161,
+    "avg_weather_risk": 1.720496894409938
+  },
+  {
+    "cluster": 46,
+    "lat": 34.71275434013605,
+    "lng": -86.72816866666668,
+    "avg_severity": 2.197278911564626,
+    "accident_count": 147,
+    "avg_weather_risk": 1.5578231292517006
+  },
+  {
+    "cluster": 50,
+    "lat": 34.89650177142857,
+    "lng": -82.17891550714286,
+    "avg_severity": 2.3,
+    "accident_count": 140,
+    "avg_weather_risk": 1.5357142857142858
+  },
+  {
+    "cluster": 47,
+    "lat": 35.22269790647482,
+    "lng": -80.85562215827338,
+    "avg_severity": 2.287769784172662,
+    "accident_count": 139,
+    "avg_weather_risk": 1.7553956834532374
+  },
+  {
+    "cluster": 37,
+    "lat": 34.33631731654677,
+    "lng": -81.66421089208633,
+    "avg_severity": 2.402877697841727,
+    "accident_count": 139,
+    "avg_weather_risk": 1.5179856115107915
+  },
+  {
+    "cluster": 63,
+    "lat": 39.16876553846154,
+    "lng": -84.45199752136752,
+    "avg_severity": 2.6837606837606836,
+    "accident_count": 117,
+    "avg_weather_risk": 1.6666666666666667
+  },
+  {
+    "cluster": 35,
+    "lat": 33.45330353982301,
+    "lng": -112.07752092920354,
+    "avg_severity": 2.566371681415929,
+    "accident_count": 113,
+    "avg_weather_risk": 1.584070796460177
+  },
+  {
+    "cluster": 48,
+    "lat": 34.4608402293578,
+    "lng": -82.62867328440367,
+    "avg_severity": 2.0275229357798166,
+    "accident_count": 109,
+    "avg_weather_risk": 1.5504587155963303
+  },
+  {
+    "cluster": 24,
+    "lat": 34.218965759615386,
+    "lng": -82.16909433653846,
+    "avg_severity": 2.0,
+    "accident_count": 104,
+    "avg_weather_risk": 1.5384615384615385
+  },
+  {
+    "cluster": 49,
+    "lat": 42.45148205813954,
+    "lng": -73.65168993023256,
+    "avg_severity": 2.6511627906976742,
+    "accident_count": 86,
+    "avg_weather_risk": 1.9767441860465116
+  },
+  {
+    "cluster": 33,
+    "lat": 29.13689334117647,
+    "lng": -82.14660150588236,
+    "avg_severity": 2.4,
+    "accident_count": 85,
+    "avg_weather_risk": 1.4705882352941178
+  },
+  {
+    "cluster": 54,
+    "lat": 35.80452996470588,
+    "lng": -78.66219792941176,
+    "avg_severity": 2.4,
+    "accident_count": 85,
+    "avg_weather_risk": 1.9529411764705882
+  },
+  {
+    "cluster": 20,
+    "lat": 34.025234940476196,
+    "lng": -81.05672221428571,
+    "avg_severity": 2.5476190476190474,
+    "accident_count": 84,
+    "avg_weather_risk": 1.7738095238095237
+  },
+  {
+    "cluster": 62,
+    "lat": 39.750773207317074,
+    "lng": -104.98196407317074,
+    "avg_severity": 2.7804878048780486,
+    "accident_count": 82,
+    "avg_weather_risk": 1.7560975609756098
+  },
+  {
+    "cluster": 64,
+    "lat": 39.20725293902439,
+    "lng": -121.03526923170732,
+    "avg_severity": 2.097560975609756,
+    "accident_count": 82,
+    "avg_weather_risk": 1.4268292682926829
+  },
+  {
+    "cluster": 15,
+    "lat": 41.058073276315795,
+    "lng": -81.58565899999999,
+    "avg_severity": 2.8289473684210527,
+    "accident_count": 76,
+    "avg_weather_risk": 1.7105263157894737
+  },
+  {
+    "cluster": 56,
+    "lat": 33.49058901369863,
+    "lng": -86.7671635479452,
+    "avg_severity": 2.547945205479452,
+    "accident_count": 73,
+    "avg_weather_risk": 1.917808219178082
+  },
+  {
+    "cluster": 67,
+    "lat": 30.43683473913044,
+    "lng": -91.10596418840579,
+    "avg_severity": 2.463768115942029,
+    "accident_count": 69,
+    "avg_weather_risk": 1.5217391304347827
+  },
+  {
+    "cluster": 60,
+    "lat": 36.175180970149256,
+    "lng": -86.78123728358209,
+    "avg_severity": 2.5074626865671643,
+    "accident_count": 67,
+    "avg_weather_risk": 1.835820895522388
+  },
+  {
+    "cluster": 51,
+    "lat": 29.16174446153846,
+    "lng": -81.08302489230769,
+    "avg_severity": 2.753846153846154,
+    "accident_count": 65,
+    "avg_weather_risk": 1.9076923076923078
+  },
+  {
+    "cluster": 58,
+    "lat": 42.22825804761905,
+    "lng": -73.78241777777777,
+    "avg_severity": 2.3492063492063493,
+    "accident_count": 63,
+    "avg_weather_risk": 1.7142857142857142
+  }
+]

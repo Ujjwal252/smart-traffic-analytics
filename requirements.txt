@@ -1,0 +1,13 @@
+pandas
+numpy
+scikit-learn
+xgboost
+folium
+streamlit
+streamlit-folium
+plotly
+joblib
+pyarrow
+openmeteo-requests
+requests-cache
+retry-requests
